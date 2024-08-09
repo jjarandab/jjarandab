@@ -6,7 +6,8 @@
 
 <a href="https://jjarandab.pythonanywhere.com/link">
   <img
-    src="https://jjarandab.pythonanywhere.com"
+    src="https://jjarandab.pythonanywhere.com?spin=false&scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
+    
   />
 </a>
